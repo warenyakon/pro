@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ScheduleModule, RecurrenceEditorModule,DayService} from '@syncfusion/ej2-angular-schedule';
+import { ScheduleModule, RecurrenceEditorModule,DayService,module,NgModule} from '@syncfusion/ej2-angular-schedule';
 
 @NgModule({
   declarations: [
