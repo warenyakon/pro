@@ -7,8 +7,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+<<<<<<< HEAD
   title = 'pro';
   papa:any;
+=======
+ 
+>>>>>>> 52fb9ce67e6c75cfd27ecadc050c36dffe83b4a6
 }
 
 
